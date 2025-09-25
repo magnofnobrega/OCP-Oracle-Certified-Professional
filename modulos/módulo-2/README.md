@@ -78,4 +78,5 @@ Na Matrix, você lembra que as pessoas vivem um realidade simulada, mas na essê
   - **Lista Dinâmica** &rarr; estante infinita que só aceita caixas, crecendo conforme novos pedidos. Ex: lista com caixas de 5 xícaras, 120,5ml ou true (açúcar).
 
 
-[CodeMatrix 01](src/exercicio01.java)
+[CodeMatrix 01](src/Exercicio01.java)
+[CodeMatrix 02](src/Exercicio02.java)

@@ -1,4 +1,4 @@
-# Módulo 1 - Manipulando data, hora, texto, valores numéricos e boobleanos
+# Módulo 2 - Manipulando data, hora, texto, valores numéricos e boobleanos
 
 ## Tipos Primitivos - o café puro na xícara ( o mundo real )
 

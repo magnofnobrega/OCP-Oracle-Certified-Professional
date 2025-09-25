@@ -35,7 +35,7 @@ Neste módulo, você aprenderá a manipular diferentes tipos de dados em Java, c
  ✅ Ao final do módulo, você será capaz de escolher a melhor abordagem para manipular dados numéricos, textos e informações temporais em suas aplicações Java.
 
 
-### [💻 Exercícios práticos](modulos/módulos-2/src)
+### [💻 Exercícios práticos](modulos/módulo-2/src)
 
 ---
 

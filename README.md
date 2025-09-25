@@ -21,7 +21,7 @@ Cada módulo contém explicações, objetivos, exercícios práticos e a localiz
 
 ---
 
-## 📑 Módulo 2 - Manipulando data, hora, texto, valores numéricos e booleanos
+## [📑 Módulo 2](modulos/módulo-2/README.md) - Manipulando data, hora, texto, valores numéricos e booleanos
 
 ### 🚀 Objetivo / Aprendizado
 
@@ -35,7 +35,7 @@ Neste módulo, você aprenderá a manipular diferentes tipos de dados em Java, c
  ✅ Ao final do módulo, você será capaz de escolher a melhor abordagem para manipular dados numéricos, textos e informações temporais em suas aplicações Java.
 
 
-### 💻 Exercício prático
+### [💻 Exercícios práticos](modulos/módulos-2/src)
 
 ---
 

@@ -1,5 +1,5 @@
 
-public class Respostas01 {
+public class Resposta01 {
 
     // Situação 1
     // Uma xícara com 100 ml de café na mesa do cliente
